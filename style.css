@@ -4,11 +4,12 @@ body{
 h1{
     size: 20pt;
     color: crimson;
-    
+    text-align: center;
 }
 h3{
     color: crimson;
-    size: 10pt;
+    size: 15pt;
+    
 
 }
 p{
@@ -16,4 +17,20 @@ p{
     size: 5pt;
     font-style: italic;
     
+}
+ul{
+    color:brown;
+    size: 5pt;
+    font-style: italic;
+    
+
+}
+img{
+    width: 150pt;
+    height: 130pt;
+    border-style: ridge;
+    border-color: brown;
+    align-items: center;
+
+
 }
