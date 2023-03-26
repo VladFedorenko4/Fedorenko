@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+h1{
+    size: 20pt;
+    color: crimson;
+    
+}
+h3{
+    color: crimson;
+    size: 10pt;
+
+}
+p{
+    color:brown;
+    size: 5pt;
+    font-style: italic;
+    
+}
