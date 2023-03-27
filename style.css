@@ -12,10 +12,11 @@ h3{
     
 
 }
-p{
+.p2{
     color:brown;
     size: 5pt;
     font-style: italic;
+    text-align: center;
     
 }
 ul{
@@ -25,12 +26,23 @@ ul{
     
 
 }
-img{
+.wrap{
     width: 150pt;
     height: 130pt;
     border-style: ridge;
     border-color: brown;
-    align-items: center;
+    text-align: center;
+   
 
 
 }
+.p3
+    {
+        text-align: right;
+        text-decoration: underline;
+        font-style:italic;
+        font-size: 15pt;
+    }
+
+
+
