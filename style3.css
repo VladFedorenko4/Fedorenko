@@ -1,0 +1,46 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/31189.jpg);
+}
+h1{
+    size: 20pt;
+    color: crimson;
+    text-align: center;
+}
+
+.photo1{
+   
+    width: 350pt;
+    height: 230pt;
+    border-style: ridge;
+    border-color: brown;
+    
+}
+.photo2{
+   
+    width: 350pt;
+    height: 230pt;
+    border-style: ridge;
+    border-color: brown;
+    
+  
+}
+.photo3{
+   
+    width: 350pt;
+    height: 230pt;
+    border-style: ridge;
+    border-color: brown;
+   
+}
+.photo4{
+    
+    width: 350pt;
+    height: 230pt;
+    border-style: ridge;
+    border-color: brown;
+    
+    
+}
+.div1{
+    text-align: center;
+}
