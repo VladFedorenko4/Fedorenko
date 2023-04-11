@@ -14,3 +14,11 @@ h1{
     size: 5pt;
     font-style: italic;
 }
+.photo1{
+   
+    width: 350pt;
+    height: 230pt;
+    border-style: ridge;
+    border-color: brown;
+    
+}
