@@ -1,0 +1,78 @@
+body{
+    background-color: black;
+
+}
+.div1 { 
+    background-color: darkkhaki;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-color: black;
+    border: 1cm;
+    border-radius: 10%;
+    border-style:dashed;
+    text-align: center;
+    font-style: italic;
+
+}
+h1{
+    color: darkkhaki;
+    text-align: center;
+    font-size: large;
+    font-style: oblique;
+}
+.div2{
+    width:560px;
+     height:315px;
+     background-color: darkkhaki;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-color: black;
+    border: 50px;
+    border-radius: 10%;
+    border-style:inset;
+    text-align: center;
+    
+}
+
+.div3{
+    background-color: darkkhaki;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-color: black;
+    border: 10px;
+    
+    border-radius: 5%;
+    border-style:inset;
+    text-align: center;
+    font-size: large;
+    width: 100px;
+    height: 50px;
+
+}
+
+
+
+
+
+.P1 { text-align: justify;
+    margin-left: 5%; margin-right: 5%;
+    font-style: italic;
+
+}
+A:link{ 
+    color: green; 
+    text-decoration:none;
+    }
+    A:active { 
+    color: #0000FF; 
+    text-decoration:none; 
+    }
+    A:visited {
+    color: DarkBlue; 
+    text-decoration:none;
+    }
+    A:hover { 
+    color: Red; 
+    text-decoration:underline; 
+    }
+    
