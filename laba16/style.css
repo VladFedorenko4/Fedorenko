@@ -1,0 +1,39 @@
+body{
+   background:linear-gradient(to bottom left, rgb(227, 224, 9), rgba(74, 2, 74, 0.938), yellow);
+}
+
+.y {
+    border: 4px solid #55e555;
+    
+}
+.n {
+    border: 4px solid rgb(221, 14, 14);
+   
+}
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: #00aa00;
+}
+.in{
+    height: 10vh;
+    width: 25vw;
+    border: 1px solid black;
+    margin: 10px auto;
+}
+.h1{
+    text-align: center;
+    color: cadetblue;
+
+}
+.img{
+    text-align: center;
+    border: 1px solid black;
+    height: 200px;
+    width: 300px;
+}
+.div{
+    text-align: center;
+}
